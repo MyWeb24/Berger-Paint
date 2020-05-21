@@ -1,0 +1,22 @@
+.footer-color{
+    background-color:#ccebff;
+    
+}
+.fontfamily{
+
+    font-family: Helvetica;
+}
+.fontsize{
+    
+    font-size: 12px;
+}
+figcaption {
+    font-size: 9px;
+    font-family: Helvetica;
+
+  }
+  .border-size{
+    border-style:solid 1px;
+    
+    }
+    

@@ -1,0 +1,24 @@
+.font{
+    font-size:8px;
+    font-family: Helvetica;
+}
+.fontValid{
+  font-size:10px;
+  font-family: Helvetica;
+  color: red;
+}
+.makeItCenter {
+    width: 60%;
+    border-radius:2rem;
+    height: auto;
+  }
+  .pos {
+    position: absolute;
+    top: 220px;
+    right: 10px;
+
+}
+.input {
+  padding-right: 0;  
+  padding-left: 0;
+}
